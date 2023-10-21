@@ -12,11 +12,10 @@ ___
 ---
 **HOW THIS FILE WORKS:**
  - Imports necessary modules to perform mischevious operations.
- - Warns the user if he/she really wants to execute the program.
- - Encrypts user data which can be only recovered if the user pays for the decryption key.
- - Uses Fernet algorithm to encrypt and decrypt files.
- - Then open the UI saying that the files have been encrypted.
- - Once the user has entered the correct encrpytion key, the program quits itself.
+ - Warns if the user really wants to execute the program.
+ - Once excuted, no forgiveness.
+ - Sets a wallpaper.
+ - Attempts to destroy user's files and system32 folder.
 ---
 **READ BEFORE USING**
 - As I mentioned above, I have no intention of harming users with this project.
