@@ -5,8 +5,9 @@ ___
 
 **AIM OF THE PROJECT:**
 
- - There is no aim to destruct user's OS or spread this virus in the internet.
- - This was just created as **skill showcase** project even thougt I have no coding skills.
+ - There is no aim to destruct people's OS or spread this virus in the internet.
+ - To stop Indian scammers.
+ - This was just created as **skill showcase** project even thoug I have no coding skills.
  - To destroy the cringe Indian social media posts and to show them that they have plagued their own nation.
 ---
 **HOW THIS FILE WORKS:**
